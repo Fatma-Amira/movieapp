@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0px;
+}
+.entete{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+ background-color: blue;
+height: 100px;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}

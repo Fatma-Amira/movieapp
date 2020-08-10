@@ -1,0 +1,8 @@
+.input_rating{
+    display: none;
+}
+.Star{
+    cursor: pointer;
+    transition: Color 200ms;
+    
+}
